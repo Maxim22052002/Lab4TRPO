@@ -1,0 +1,11 @@
+C:\Users\Максим\source\repos\Refactorings\Refactorings\obj\Debug\netcoreapp3.0\Refactorings.csprojAssemblyReference.cache
+C:\Users\Максим\source\repos\Refactorings\Refactorings\obj\Debug\netcoreapp3.0\Refactorings.AssemblyInfoInputs.cache
+C:\Users\Максим\source\repos\Refactorings\Refactorings\obj\Debug\netcoreapp3.0\Refactorings.AssemblyInfo.cs
+C:\Users\Максим\source\repos\Refactorings\Refactorings\bin\Debug\netcoreapp3.0\Refactorings.exe
+C:\Users\Максим\source\repos\Refactorings\Refactorings\bin\Debug\netcoreapp3.0\Refactorings.deps.json
+C:\Users\Максим\source\repos\Refactorings\Refactorings\bin\Debug\netcoreapp3.0\Refactorings.runtimeconfig.json
+C:\Users\Максим\source\repos\Refactorings\Refactorings\bin\Debug\netcoreapp3.0\Refactorings.runtimeconfig.dev.json
+C:\Users\Максим\source\repos\Refactorings\Refactorings\bin\Debug\netcoreapp3.0\Refactorings.dll
+C:\Users\Максим\source\repos\Refactorings\Refactorings\bin\Debug\netcoreapp3.0\Refactorings.pdb
+C:\Users\Максим\source\repos\Refactorings\Refactorings\obj\Debug\netcoreapp3.0\Refactorings.dll
+C:\Users\Максим\source\repos\Refactorings\Refactorings\obj\Debug\netcoreapp3.0\Refactorings.pdb
